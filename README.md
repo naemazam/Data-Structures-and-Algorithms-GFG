@@ -1,10 +1,10 @@
-# Must do Data Structrues and Algorithms - Interview Coding Problems from GeekforGeeks
+# Data Structrues and Algorithms - Interview Coding Problems from GeekforGeeks
 
   This repository is a collection of my solutions to the must do probelms in [geeksforgeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
 ## 0. To get started follow the Books or Coding Interview University
 
-  0. [Coding Interview University](https://github.com/jwasham/coding-interview-university) is the perfect place to get started with your preperation.
+  0. [Coding Interview University](https://github.com/naemazam/coding-interview-university) is the perfect place to get started with your preperation.
   
   1. [The Coding Book](https://github.com/Avinash987/Coding/blob/master/CodingBook.pdf)
   
